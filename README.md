@@ -8,7 +8,6 @@
 
 A machine learning powered command-line tool to identify phishing URLs based on their characteristics.
 
-![Phishing Detection Demo](https://raw.githubusercontent.com/username/phishing-detector/main/docs/demo.png)
 
 ## 🌟 Overview
 
